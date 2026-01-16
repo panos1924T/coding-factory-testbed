@@ -22,4 +22,24 @@ public class Point {
     public int getY() {
         return y;
     }
+
+
+    public static Point getInstance(int x, int y) {
+        return new Point(x, y);
+    }
+
+    public static Point getRandomPoint() {
+        int x = (int) (Math.random() * 100);
+        int y = (int) (Math.random() * 100);
+
+        return new Point(x, y);
+    }
+
+    @Override
+    public String toString() {
+        return "Point{" +
+                "x=" + x +
+                ", y=" + y +
+                '}';
+    }
 }

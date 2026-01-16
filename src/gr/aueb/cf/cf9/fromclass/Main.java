@@ -17,5 +17,7 @@ public class Main {
         Product product = new Product(1, " ", " ", 2.5, 50, true);
 
         User user = new User(1, " ", " ", " ", "***", true);
+
+        System.out.println(Point.getRandomPoint());
     }
 }

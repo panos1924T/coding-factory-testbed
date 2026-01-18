@@ -1,6 +1,8 @@
-package gr.aueb.cf.cf9.fromclass;
+package gr.aueb.cf.cf9.fromclass.unit2;
 
 import gr.aueb.cf.cf9.fromclass.exceptions.NegativeAmountException;
+import gr.aueb.cf.cf9.fromclass.unit1.Point;
+import gr.aueb.cf.cf9.fromclass.unit1.Student;
 
 public class PracticeMain {
 

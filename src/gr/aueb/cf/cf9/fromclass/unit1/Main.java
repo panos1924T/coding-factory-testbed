@@ -1,4 +1,7 @@
-package gr.aueb.cf.cf9.fromclass;
+package gr.aueb.cf.cf9.fromclass.unit1;
+
+import gr.aueb.cf.cf9.fromclass.unit2.OnlyOneCodingFactory;
+import gr.aueb.cf.cf9.fromclass.unit2.OnlyOneCodingLazy;
 
 public class Main {
 

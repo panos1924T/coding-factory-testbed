@@ -1,4 +1,4 @@
-package gr.aueb.cf.cf9.fromclass;
+package gr.aueb.cf.cf9.fromclass.unit2;
 
 import gr.aueb.cf.cf9.fromclass.exceptions.InsufficientBalanceException;
 import gr.aueb.cf.cf9.fromclass.exceptions.NegativeAmountException;

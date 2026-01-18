@@ -7,8 +7,6 @@ import gr.aueb.cf.cf9.fromclass.unit1.Student;
 public class PracticeMain {
 
     public static void main(String[] args) throws NegativeAmountException {
-        Student panos = new Student(1, "Panos", "Tsitsikas");
-        System.out.println(panos);
 
         Account account = new Account("GR0301", 1000.0);
         account.deposit(300.0);
